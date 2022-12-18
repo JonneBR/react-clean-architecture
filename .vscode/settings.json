@@ -1,25 +1,24 @@
 {
-	"javascript.format.enable": true,
-	"javascript.format.semicolons": "remove",
-	"javascript.preferences.quoteStyle": "single",
-	"javascript.format.insertSpaceAfterCommaDelimiter": true,
+  "javascript.format.enable": true,
+  "javascript.format.semicolons": "remove",
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.format.insertSpaceAfterCommaDelimiter": true,
 
-    "typescript.format.enable": true,
-	"typescript.format.semicolons": "remove",
+  "typescript.format.enable": true,
+  "typescript.format.semicolons": "remove",
 
-	"typescript.preferences.quoteStyle": "single",
-	"typescript.format.insertSpaceAfterCommaDelimiter": true,
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.format.insertSpaceAfterCommaDelimiter": true,
 
-	"[javascript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 
-	"[typescript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 
-	"[typescriptreact]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
