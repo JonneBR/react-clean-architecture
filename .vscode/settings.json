@@ -1,0 +1,21 @@
+{
+	"javascript.format.enable": true,
+	"javascript.format.semicolons": "remove",
+	"javascript.preferences.quoteStyle": "single",
+	"javascript.format.insertSpaceAfterCommaDelimiter": true,
+
+    "typescript.format.enable": true,
+	"typescript.format.semicolons": "remove",
+
+	"typescript.preferences.quoteStyle": "single",
+	"typescript.format.insertSpaceAfterCommaDelimiter": true,
+
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	  },
+
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	
+}
