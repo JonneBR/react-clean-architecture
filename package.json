@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "prepare": "husky install",
-    "pre-commit": "yarn lint"
+    "pre-commit": "yarn lint --fix"
   },
   "dependencies": {
     "@next/font": "13.0.7",
