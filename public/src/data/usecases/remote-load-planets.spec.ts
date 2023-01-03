@@ -26,5 +26,5 @@ test('Should call HttpGetClient with correct URL', async () => {
   const sut = new RemoteLoadPlanets(url, httpGetClientSpy)
   await sut.loadAll()
 
-  expect(httpGetClientSpy.url).toBe('url')
+  expect(httpGetClientSpy.url).toBe(url)
 })
