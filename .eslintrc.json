@@ -10,7 +10,9 @@
   },
   "rules": {
     "indent": ["error", 2],
-    "no-redeclare": "off"
+    "no-redeclare": "off",
+    //Fix this line bellow in future opportunities
+    "@typescript-eslint/no-namespace": "off"
   },
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
